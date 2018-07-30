@@ -1,0 +1,16 @@
+body {
+  margin: auto;
+}
+
+header {
+  max-width: 60vw;
+  margin: auto;
+  margin-top: 8vh;
+}
+
+
+main {
+  max-width: 60vw;
+  margin: auto;
+  margin-top: 5vh;
+}
